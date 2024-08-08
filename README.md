@@ -24,9 +24,9 @@ Get All Books
     URL: /api/books
     Method: GET
     Description: Retrieve a list of all books.
-    ```
-    curl -X GET http://localhost:8080/api/books
-    ```
+```
+curl -X GET http://localhost:8080/api/books
+```
     Response:
         200 OK: Returns a list of books.
 
